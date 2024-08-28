@@ -11,7 +11,7 @@
 .container_titulo, .container__imagem, .container_frase{
     padding: 0.1em; color: blueviolet;
 }
-.container_titulo, . conteiner_frase{
+.container_titulo, .container_frase{
     display: none;
 }
 .cx-texto{
@@ -39,7 +39,7 @@ margin-top: 3em;padding: 1em;
     display: none;
 }
 }
-@media screen  and (min-width 1728px;){
+@media screen  and (min-width: 1728px){
     .container_frase{
         font-size: 50px;
         display: inline-block;
