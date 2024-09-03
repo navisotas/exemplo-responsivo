@@ -5,6 +5,6 @@
     --lilas:#11e3eb;--fonte-projeto:"dosis";
 }
 body {
-    background-color: rgb(255, 0, 234);
+    background-color: rgba(182, 0, 0, 0.61);
     margin: 0;font-family: var(--fonte-projeto);
 }
