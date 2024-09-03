@@ -9,7 +9,7 @@
     width: 120px;height: 120px;
 }
 .container_titulo, .container__imagem, .container_frase{
-    padding: 0.1em; color: blueviolet;
+    padding: 0.1em; color: rgb(255, 0, 0);
 }
 .container_titulo, .container_frase{
     display: none;
