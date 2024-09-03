@@ -1,7 +1,7 @@
 @import url("estilos/header.css");
 @import url('https://font.googleapis.com/css2?family=dosis:wght@200..800');
 :root{
-    --amarelo: #d7c74df7; --fundo-azul: #23239de4;
+    --amarelo: #fffffff7; --fundo-azul: #23239de4;
     --lilas:#11e3eb;--fonte-projeto:"dosis";
 }
 body {
